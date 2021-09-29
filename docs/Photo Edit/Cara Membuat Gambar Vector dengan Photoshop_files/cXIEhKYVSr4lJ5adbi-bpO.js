@@ -1,0 +1,1 @@
+Tynt.sc({"ap":"Sumber :","domain":"sandydoank.blogspot.com"})
